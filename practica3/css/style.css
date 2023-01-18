@@ -1,0 +1,17 @@
+body {
+    height: 300vh;
+}
+
+article {
+    border: 2px solid gray;
+    margin: auto;
+}
+h2 {
+    text-align: center;
+    background-color: aqua;
+    color: blue;
+}
+
+ul {
+    position: sticky;
+}

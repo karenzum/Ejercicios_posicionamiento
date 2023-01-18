@@ -1,0 +1,36 @@
+
+.container {
+    position: absolute;
+    border: 5px solid rgb(0, 0, 0);
+    height: 50vh;
+    width: 50vw;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    top: 25%;
+}
+
+.circle {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    border: 1px;
+    background-color: red; 
+    top: 10%;
+    left: 10%;
+    text-align: center;
+    color: white;
+}
+
+.square {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    border: 1px;
+    bottom: 20px;
+    right: 20px;
+    background-color: blue;
+    text-align: center;
+    color: white;
+}
